@@ -19,11 +19,11 @@ htmlcov/
 
 # IDE and editors
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
 
+temp_auto_push.bat
 # OS files
 .DS_Store
 Thumbs.db
@@ -49,3 +49,5 @@ baseline-test-repo/
 
 # Feature 028: Tier 2 parity check writes skill-invocation transcripts here.
 parity-artifacts/
+.gitignore
+branch_structure.json
