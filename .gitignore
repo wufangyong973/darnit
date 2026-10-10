@@ -19,7 +19,6 @@ htmlcov/
 
 # IDE and editors
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -49,3 +48,7 @@ baseline-test-repo/
 
 # Feature 028: Tier 2 parity check writes skill-invocation transcripts here.
 parity-artifacts/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
